@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Software Engineer and Competitive Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-- 🔭 I’m currently working on [OJ(Online Judge)](https://github.com/akash-singh112/OJ)
+- 🔭 I’m currently working on [CPH-Leetcode(Vscode Extension)](https://github.com/akash-singh112/cph-leetcode)
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
