@@ -12,6 +12,9 @@ I like keeping things clear and short — long descriptions make me scroll too m
 ## 🌱 Interested / Exploring
 - ⚙️ MLOps (Docker, MLFlow, AWS)  
 
+## 🌐 Portfolio  
+[**Visit My Portfolio**](https://portfolio-blue-tau-kgioxwtg9h.vercel.app/)
+
 ## 📫 Connect  
 📧 **Email:** akashsingh242678@gmail.com  
 🔗 **LinkedIn:** [Link](https://www.linkedin.com/in/akashsinghiitr/)
