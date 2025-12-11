@@ -18,7 +18,3 @@ I like keeping things clear and short — long descriptions make me scroll too m
 ## 📫 Connect  
 📧 **Email:** akashsingh242678@gmail.com  
 🔗 **LinkedIn:** [Link](https://www.linkedin.com/in/akashsinghiitr/)
-
----
-
-Thanks for stopping by — see you around! ✨👋
